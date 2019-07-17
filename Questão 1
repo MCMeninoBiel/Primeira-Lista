@@ -1,0 +1,11 @@
+1)
+a) Uma classe é um novo tipo criado especificamente pelo programador para atender determinada necessidade. Um objeto é uma unidade de uma
+determinada classe. Uma classe tem atributos. Num objeto tem valores, strings, específicos daquela unidade sobre o atributo que a classe 
+dele tem.
+
+b) Um constutor serve para inicializar uma classe e seus atributos. Ele pode ser útil para testar a valores atribuídos.
+
+c) O Encapsulamento pode ser útil para limitar o acesso dos atributos e métodos de uma classe para os usuários e outros programadores.
+Por exemplo: Um sistema bancário tem métodos como: cobrar taxas, parcelar dividas de clientes, aumentar limite de cliente, sacar, depositar.
+Nesse sentido só é interessante que os clientes tenham acesso aos métodos sacar e deposita, enquanto os outros são próprios para os
+bancários.
